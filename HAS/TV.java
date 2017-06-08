@@ -1,6 +1,6 @@
 package HAS;
 
-public class TV {
+public class TV implements Has_Module{
 
 	public void ONandOFF() {
 		// TODO Auto-generated method stub

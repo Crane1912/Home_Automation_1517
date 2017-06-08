@@ -1,6 +1,6 @@
 package HAS;
 
-public class Audio_System {
+public class Audio_System implements Has_Module{
 
 	public void ONandOFF() {
 		// TODO Auto-generated method stub
