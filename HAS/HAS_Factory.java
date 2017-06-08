@@ -12,13 +12,13 @@ public class HAS_Factory {
 	      } else if(Appliance.equalsIgnoreCase("Air Conditioner")){
 	         return new Air_Conditioner();
 	         
-	      } else if(Appliance.equalsIgnoreCase("Washing_Mechine")){
+	      } else if(Appliance.equalsIgnoreCase("Washing Mechine")){
 	         return new Washing_Mechine();
 	         
 	      }else if(Appliance.equalsIgnoreCase("TV")){
 		         return new TV();
 		         
-	      }else if(Appliance.equalsIgnoreCase("Audio_System")){
+	      }else if(Appliance.equalsIgnoreCase("Audio System")){
 		         return new Audio_System();
 	
 	   }
