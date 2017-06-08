@@ -7,3 +7,8 @@
 /HAS_Factory.class
 /HAS_Main.class
 /LightTestOnOFF.class
+/ACTest.class
+/WashingMechineTest.class
+/TVTest.class
+/Audio_SystemTest.class
+/AllTests.class
